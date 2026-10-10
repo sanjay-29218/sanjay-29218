@@ -9,6 +9,10 @@ Software engineer building AI-powered developer tools and desktop apps.
 **Backend:** Node.js · Flask
 **ML:** TensorFlow / Keras · OpenCV
 
+### 🚀 Building now
+
+**[NeatTake](https://neattake.com)**: a local-first macOS screen recorder and editor for making clear, polished videos. Record your screen, mic and webcam, then edit and export to MP4 with a native Swift media engine.
+
 ### 📌 Featured project
 
 **[emotion-detection-music-recommender](https://github.com/sanjay-29218/emotion-detection-music-recommender)**: facial emotion detection and music recommendation using a custom CNN, TensorFlow/Keras, OpenCV, Flask and React.
