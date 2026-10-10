@@ -4,10 +4,10 @@ Software engineer building AI-powered developer tools and desktop apps.
 
 ### 🛠️ Tech I work with
 
-**Languages:** TypeScript · JavaScript · Python
-**Frontend:** React · Next.js · Tailwind CSS
-**Backend:** Node.js · Flask
-**ML:** TensorFlow / Keras · OpenCV
+- **Languages:** TypeScript · JavaScript · Python
+- **Frontend:** React · Next.js · Tailwind CSS
+- **Backend:** Node.js · Flask
+- **ML:** TensorFlow / Keras · OpenCV
 
 ### 🚀 Building now
 
